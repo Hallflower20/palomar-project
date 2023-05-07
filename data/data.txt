@@ -1,0 +1,6 @@
+remote/instrument5/TSPEC/20230507/
+remote/instrument5/TSPEC/20230506/
+user1@observer1.palomar.caltech.edu
+sftp user1@observer1.palomar.caltech.edu
+Tr1cer@t0ps
+
