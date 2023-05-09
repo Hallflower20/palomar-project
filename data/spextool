@@ -1,0 +1,10 @@
+setenv IDL_DIR /usr/local/rsi/idl
+
+setenv IDLUTILS_DIR /scr2/kde/idl/idlutils
+
+setenv IDLSPEC2D_DIR /scr2/kde/idl/idlspec2d
+
+setenv XIDL_DIR /scr2/kde/idl/xidl
+
+setenv IDL_PATH +$IDL_DIR\/lib:+$IDL_DIR\/examples:+/home/kde/idl:+//scr2/kde/spextool/TripleSpec/Spextool/
+
